@@ -28,7 +28,7 @@ Python 3.7+
 Libraries: scikit-learn, numpy, pandas, mediapipe, opencv-python
 Installation
 Clone the repository:
-git clone https://github.com/yourusername/yog-ai.git
+git clone https://github.com/yourusername/YogAI-Coach.git
 cd yog-ai
 Install dependencies:
 pip install -r requirements.txt

@@ -1,5 +1,5 @@
 🧘‍♂️ YogAI-Coach: AI-Powered Yoga Posture Classification
-YOG-AI (by Team Dash 2.0) is an AI-powered real-time yoga posture classification system designed to guide users during their yoga sessions. It uses machine learning to classify yoga poses based on body landmarks and provides audio feedback to help users correct their posture — all through WhatsApp, without the need for a heavy app setup.
+YOG-AI is an AI-powered real-time yoga posture classification system designed to guide users during their yoga sessions. It uses machine learning to classify yoga poses based on body landmarks and provides audio feedback to help users correct their posture — all through WhatsApp, without the need for a heavy app setup.
 
 🔥 Live Demo
 “You raise your hand… but no one tells you it’s 15° too high. That ends now.”
